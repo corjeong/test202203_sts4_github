@@ -12,6 +12,7 @@ public class Myboot1Application {
 		System.out.println("원격저장소 추가 라인");
 		System.out.println("소스주인 수정");
 		System.out.println("수정1");
+		System.out.println("수정2");
 	}
 
 }
